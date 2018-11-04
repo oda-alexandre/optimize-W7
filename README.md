@@ -1,6 +1,6 @@
 # OPTIMISE WINDOWS 7
 
-![optimize-W7](https://raw.githubusercontent.com/oda-alexandre/optimize-W7/master/logo-win7.png) 
+![optimize-W7](https://raw.githubusercontent.com/oda-alexandre/optimize-W7/master/logo-win7.png)
 
 
 ## INDEX
@@ -46,7 +46,7 @@ Optimisation de Windows 7 :
 
 ## INSTALLATION
 
-1 - Telecharger le dossier optimize-w7 et double cliquez sur optimize-w7.bat
+1 - Telecharger le et double cliquez sur optimize-w7.bat
 
 
 ## LICENSE
