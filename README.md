@@ -1,7 +1,16 @@
-<h1 align="center">Optimize-w7</h1>
+# OPTIMISE WINDOWS 7
+
+![atom](https://raw.githubusercontent.com/oda-alexandre/atom/master/logo-win7.png) 
 
 
-**INTRODUCTION**
+## INDEX
+
+- [Introduction](#INTRODUCTION)
+- [Installation](#INSTALLATION)
+- [License](#LICENSE)
+
+
+## INTRODUCTION
 
 Optimisation de Windows 7 :
 
@@ -35,11 +44,11 @@ Optimisation de Windows 7 :
 * 28 - Nettoyage du disque (C:)
 
 
-**INSTALLATION**
+## INSTALLATION
 
 1 - Telecharger le dossier optimize-w7 et double cliquez sur optimize-w7.bat
 
 
-**LICENSE**
+## LICENSE
 
 [![GPLv3+](http://gplv3.fsf.org/gplv3-127x51.png)](https://github.com/oda-alexandre/mac_random/blob/master/LICENSE)
