@@ -51,4 +51,4 @@ Optimisation de Windows 7 :
 
 ## LICENSE
 
-[![GPLv3+](http://gplv3.fsf.org/gplv3-127x51.png)](https://github.com/oda-alexandre/mac_random/blob/master/LICENSE)
+[![GPLv3+](http://gplv3.fsf.org/gplv3-127x51.png)](https://github.com/oda-alexandre/optimize-W7/blob/master/LICENSE)
