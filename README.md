@@ -1,7 +1,6 @@
 # OPTIMISE WINDOWS 7
 
-![optimize-W7](https://raw.githubusercontent.com/oda-alexandre/optimize-W7/master/img/logo-win7.png)
-
+<img src="https://raw.githubusercontent.com/oda-alexandre/optimize-W7/master/img/logo-win7.png" width="200" height="200"/>
 
 ## INDEX
 
