@@ -4,9 +4,11 @@
 
 ## INDEX
 
-- [Introduction](#INTRODUCTION)
-- [Installation](#INSTALLATION)
-- [License](#LICENSE)
+- [OPTIMISE WINDOWS 7](#optimise-windows-7)
+  - [INDEX](#index)
+  - [INTRODUCTION](#introduction)
+  - [INSTALLATION](#installation)
+  - [LICENSE](#license)
 
 ## INTRODUCTION
 
