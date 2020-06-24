@@ -1,8 +1,6 @@
 # OPTIMISE WINDOWS 7
 
 
-## INDEX
-
 - [OPTIMISE WINDOWS 7](#optimise-windows-7)
   - [INDEX](#index)
   - [INTRODUCTION](#introduction)
